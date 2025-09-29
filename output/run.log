@@ -1,0 +1,229 @@
+2025-09-25 19:00:00 - INFO - Starting batch run on data/sample_images -> output/predictions.json
+2025-09-25 19:00:00 - INFO - Found 5 images
+2025-09-25 19:00:01 - INFO - Sent batch 1/1 to server, received 5 predictions
+2025-09-25 19:00:01 - INFO - Batch run completed. Wrote output/predictions.json
+2025-09-26 18:24:54,671 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:24:54,679 - INFO - Found 5 images
+2025-09-26 18:25:31,151 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:25:31,152 - INFO - Found 5 images
+2025-09-26 18:28:22,517 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:28:22,517 - INFO - Found 5 images
+2025-09-26 18:28:40,108 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:28:40,108 - INFO - Found 5 images
+2025-09-26 18:28:55,744 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:28:55,744 - INFO - Found 5 images
+2025-09-26 18:32:33,819 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:32:33,820 - INFO - Found 5 images
+2025-09-26 18:33:48,312 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:33:48,313 - INFO - Found 5 images
+2025-09-26 18:33:50,612 - ERROR - Error during request: 404 Client Error: Not Found for url: http://localhost:8000/
+2025-09-26 18:34:37,736 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:34:37,736 - INFO - Found 5 images
+2025-09-26 18:35:56,766 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:35:56,766 - INFO - Found 5 images
+2025-09-26 18:36:00,991 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-26 18:36:40,130 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:36:40,132 - INFO - Found 5 images
+2025-09-26 18:36:42,241 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-26 18:37:13,854 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:37:13,855 - INFO - Found 5 images
+2025-09-26 18:37:16,008 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-26 18:39:15,998 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-26 18:39:15,999 - INFO - Found 5 images
+2025-09-26 18:39:18,136 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:23:22,881 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:23:22,882 - INFO - Found 5 images
+2025-09-27 12:23:28,615 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-27 12:23:28,618 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:23:43,450 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:23:43,451 - INFO - Found 5 images
+2025-09-27 12:23:48,064 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-27 12:23:48,067 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:25:27,049 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:25:27,050 - INFO - Found 5 images
+2025-09-27 12:25:31,840 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-27 12:25:31,843 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:27:22,631 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:27:22,632 - INFO - Found 5 images
+2025-09-27 12:27:27,136 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:27:49,205 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:27:49,206 - INFO - Found 5 images
+2025-09-27 12:27:57,533 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:29:10,868 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:29:10,868 - INFO - Found 5 images
+2025-09-27 12:29:24,570 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:30:22,300 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:30:22,303 - INFO - Found 5 images
+2025-09-27 12:30:33,753 - INFO - Batch run completed successfully. Output written to output\predictions.json
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+2025-09-27 12:34:13,259 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:34:13,260 - INFO - Found 5 images
+2025-09-27 12:34:27,407 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:34:55,843 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:34:55,851 - INFO - Found 5 images
+2025-09-27 12:35:00,107 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:35:13,167 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:35:13,167 - INFO - Found 5 images
+2025-09-27 12:35:21,730 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:35:33,228 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:35:33,229 - INFO - Found 5 images
+2025-09-27 12:35:53,714 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:37:57,330 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:37:57,330 - INFO - Found 6 images
+2025-09-27 12:38:22,189 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:41:23,968 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:41:23,968 - INFO - Found 7 images
+2025-09-27 12:41:52,696 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:48:28,780 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:48:28,781 - INFO - Found 7 images
+2025-09-27 12:48:58,678 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 12:55:30,984 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 12:55:30,985 - INFO - Found 11 images
+2025-09-27 12:56:19,359 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 13:09:22,876 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 13:09:22,877 - INFO - Found 11 images
+2025-09-27 13:10:10,444 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 18:45:03,448 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 18:45:03,450 - INFO - Found 11 images
+2025-09-27 18:46:01,124 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-27 18:47:18,256 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-27 18:47:18,258 - INFO - Found 11 images
+2025-09-27 18:48:03,333 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A075DE9550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-27 18:48:03,336 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 11:36:57,501 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 11:36:57,503 - INFO - Found 11 images
+2025-09-28 11:37:01,685 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016EE4DAE010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:37:47,202 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016EE59A1150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:37:51,313 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016EE59A3D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:37:55,412 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016EE59A2CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:37:55,416 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 11:38:01,093 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 11:38:01,094 - INFO - Found 11 images
+2025-09-28 11:38:59,240 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 11:39:27,037 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 11:39:27,038 - INFO - Found 11 images
+2025-09-28 11:39:31,223 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012543F0E010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:39:35,377 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012544AF3F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:40:16,338 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012544B03210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:40:21,078 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 11:40:21,080 - INFO - Found 11 images
+2025-09-28 11:42:11,479 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 11:42:49,925 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 11:42:49,926 - INFO - Found 11 images
+2025-09-28 11:43:47,914 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 11:49:33,676 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 11:49:33,677 - INFO - Found 11 images
+2025-09-28 11:49:37,770 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263D599E010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:49:40,163 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:49:42,228 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:49:44,294 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:49:48,385 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263D6582150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:49:52,469 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263D6583ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:49:56,603 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263D6583590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:50:00,686 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263C57A5AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:50:04,786 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263D656A050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:50:08,899 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263D658A1D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:50:13,067 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263D6590550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:50:13,075 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 11:51:06,880 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 11:51:06,881 - INFO - Found 11 images
+2025-09-28 11:51:09,130 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:51:11,262 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:51:13,341 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:51:17,440 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686DDBB250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:51:21,507 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686DDD1B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:51:25,606 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686DDD3DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:51:29,709 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686DDD3890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:51:33,823 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686DDD16D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:51:37,907 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686DDAED10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:51:41,991 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686DDDA110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:51:46,058 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686DDE0450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 11:51:46,062 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 11:52:10,832 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 11:52:10,833 - INFO - Found 11 images
+2025-09-28 11:52:18,582 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:23,633 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:27,797 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:31,855 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:36,092 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:40,023 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:44,218 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:48,313 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:52,741 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:52:56,878 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:53:00,997 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 11:53:01,000 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 12:22:30,626 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 12:22:30,627 - INFO - Found 11 images
+2025-09-28 12:22:35,208 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 12:22:39,271 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 12:22:43,547 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 12:22:47,682 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 12:22:52,013 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 12:22:56,288 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 12:23:00,494 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 12:23:04,803 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 12:23:08,929 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002889EFA9AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:23:13,025 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002889EFC1A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:23:17,127 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002889EFC3D90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:23:17,136 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 12:23:40,251 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 12:23:40,252 - INFO - Found 11 images
+2025-09-28 12:23:44,390 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000185FE9ECD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:24:26,196 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 12:53:45,170 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 12:53:45,172 - INFO - Found 11 images
+2025-09-28 12:53:49,376 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE534BE010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:53:53,508 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE540B0250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:53:57,597 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE540B2B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:01,680 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE540B8FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:05,772 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE540B1110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:09,878 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE5408E490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:13,980 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE54098650>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:18,079 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE540BB410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:22,191 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE540C1790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:26,278 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE5405E010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:30,388 - ERROR - Request failed for batch: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE54098A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 12:54:30,394 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 12:55:53,550 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 12:55:53,550 - INFO - Found 11 images
+2025-09-28 12:56:39,617 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 12:59:58,573 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 12:59:58,574 - INFO - Found 11 images
+2025-09-28 13:00:44,652 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 13:06:26,090 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 13:06:26,091 - INFO - Found 11 images
+2025-09-28 13:07:10,864 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 19:59:59,294 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 19:59:59,296 - INFO - Found 5 images
+2025-09-28 20:00:23,518 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 20:04:15,709 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:04:15,710 - INFO - Found 5 images
+2025-09-28 20:04:17,893 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 20:04:19,968 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 20:04:22,067 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 20:04:24,151 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 20:04:26,256 - ERROR - Request failed for batch: 500 Server Error: Internal Server Error for url: http://localhost:8000/predict/
+2025-09-28 20:04:26,260 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 20:04:54,620 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:04:54,621 - INFO - Found 5 images
+2025-09-28 20:05:17,567 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 20:08:54,517 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:08:54,518 - INFO - Found 5 images
+2025-09-28 20:09:17,532 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:09:17,533 - INFO - Found 5 images
+2025-09-28 20:09:51,266 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 20:10:43,122 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:10:43,123 - INFO - Found 5 images
+2025-09-28 20:10:49,169 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 20:10:59,184 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:10:59,185 - INFO - Found 5 images
+2025-09-28 20:11:05,030 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 20:11:13,903 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:11:13,904 - INFO - Found 5 images
+2025-09-28 20:11:35,259 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:11:35,260 - INFO - Found 5 images
+2025-09-28 20:12:05,846 - INFO - Batch run completed successfully. Output written to output\predictions.json
+2025-09-28 20:12:57,051 - INFO - Starting batch run on data\sample_images -> output\predictions.json
+2025-09-28 20:12:57,052 - INFO - Found 5 images
+2025-09-28 20:13:15,508 - INFO - Batch run completed successfully. Output written to output\predictions.json

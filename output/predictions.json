@@ -1,0 +1,84 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "20240614_great_blue_heron_with_fish_beaver_brook_open_space_PD200754.jpg",
+      "width": -1,
+      "height": -1
+    },
+    {
+      "id": 2,
+      "file_name": "image7.jpg",
+      "width": -1,
+      "height": -1
+    },
+    {
+      "id": 3,
+      "file_name": "image8.jpeg",
+      "width": -1,
+      "height": -1
+    },
+    {
+      "id": 4,
+      "file_name": "Koi_fish_in_the_water.jpg",
+      "width": -1,
+      "height": -1
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        433,
+        633,
+        539,
+        683
+      ],
+      "score": 0.9778406023979187
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        589,
+        574,
+        752,
+        644
+      ],
+      "score": 0.9596605896949768
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        306,
+        135,
+        851,
+        668
+      ],
+      "score": 0.9008759260177612
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        564,
+        587,
+        774,
+        698
+      ],
+      "score": 0.896903932094574
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "object"
+    }
+  ]
+}

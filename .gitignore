@@ -1,0 +1,16 @@
+batchLabellingPipelineImages_environment/
+config/
+logs/
+build.ps1
+prompt.md
+node_modules/
+config/
+fLogs/
+frontendd/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.pt 
+mainOld.py
