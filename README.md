@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# batchLabellingPipelineImages
-=======
 # 📦 Batch Labeling Pipeline  
 
 *A Task Submission for CloudFactory*  
