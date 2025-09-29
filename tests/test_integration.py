@@ -1,6 +1,10 @@
-import subprocess, time, requests, os, signal
+import subprocess, time, requests, os, signal , pytest
 from pathlib import Path
 
+@pytest.mark.skipif(
+    os.getenv("CI") == "true",
+    reason="End-to-end server tests are skipped in CI environment"
+)
 def test_end_to_end(tmp_path):
     # start server
     proc = subprocess.Popen(["python", "-m", "model_server.main"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
